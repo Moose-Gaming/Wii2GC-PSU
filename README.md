@@ -7,7 +7,7 @@ The .FCStd file was created in FreeCAD Link Daily version 2022.1128 (should work
 
 The Wiki should guide you through succesfully modyfing your Wii PSU for GameCube compatibility.
 
-This mod is reversable.
+This mod is reversable, as it does not damage the original PSU.
 
 ***
 
