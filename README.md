@@ -1,4 +1,6 @@
 # Wii2GC-PSU
+<img src="https://github.com/MooseGmaing/Wii2GC-PSU/blob/main/Images/Render.png" width="400" height="300"/>
+
 ***A 3D model that converts you Wii power supply into a GameCube one***
 
 In this repo you will find the .stl file required for 3D printing as well as the .FCStd for editing the model in FreeCAD.
