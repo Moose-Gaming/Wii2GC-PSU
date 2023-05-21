@@ -8,7 +8,7 @@ The archive folder holds all my previous .stl files.
 
 The [**Wiki**](https://github.com/MooseGmaing/Wii2GC-PSU/wiki) should guide you through succesfully modyfing your Wii PSU for GameCube compatibility.
 
-This mod is reversable, as it does not damage the original PSU.
+This mod is reversable, as it does not damage the original PSU. It is also solder free - a drop in replacement
 
 ***
 
