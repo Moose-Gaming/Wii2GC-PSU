@@ -6,7 +6,7 @@
 In this repo you will find the .stl file required for 3D printing as well as the .FCStd for editing the model in FreeCAD (FreeCAD 0.20 and later).
 The archive folder holds all my previous .stl files.
 
-The Wiki should guide you through succesfully modyfing your Wii PSU for GameCube compatibility.
+The [**Wiki**](https://github.com/MooseGmaing/Wii2GC-PSU/wiki) should guide you through succesfully modyfing your Wii PSU for GameCube compatibility.
 
 This mod is reversable, as it does not damage the original PSU.
 
