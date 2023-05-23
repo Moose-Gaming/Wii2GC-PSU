@@ -10,6 +10,8 @@ The [**Wiki**](https://github.com/MooseGmaing/Wii2GC-PSU/wiki) should guide you 
 
 This mod is reversable, as it does not damage the original PSU. It is also solder free - a drop in replacement
 
+Check this project out on  [**Thingiverse**](https://www.thingiverse.com/thing:6039070)!
+
 ***
 
 # License
